@@ -1,4 +1,9 @@
-## Hi there 👋
+## Greeting 😎
+
+I am a post-doc researcher at DTU, working on the resilience of situational awareness for autonomous ships. I obtained my PhD at ENSTA Bretagne and I obtained masters from Centrale Nantes and DTU in 2021 with a focus on mobile robotics and control theory.
+
+Website: https://morgan-louedec.fr/
+Youtube: https://www.youtube.com/channel/UCla4L9FXr68p_O9x1KS54PQ
 
 <!--
 **MLouedec/MLouedec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
